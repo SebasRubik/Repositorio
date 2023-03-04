@@ -1,0 +1,10 @@
+roca|0.25|metros|45|20
+metal|0.30|metros|100|20
+crater|2|metros|1|20
+escombro|0.50|metros|5|30
+roca|0.70|metros|65|73
+metal|1|metros|23|35
+crater|4|metros|84|23
+escombro|1|metros|47|39
+crater|4|metros|29|111
+escombro|1|metros|73|235
